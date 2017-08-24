@@ -31,7 +31,7 @@
     <div class="navbar">
       <div class="navbar-left-container">
         <a href="/">
-          <img class="navbar-brand-logo" src="/static/logo.png">
+        <div class="navbar-brand-logo"></div>
         </a>
       </div>
       <div class="navbar-right-container" style="display: flex;">
